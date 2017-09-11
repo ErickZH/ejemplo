@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTG-8" ?>
+<usuarios>
+	<usuario>
+		<usuarioid>1</usuarioid>
+		<nombre>Erick</nombre>
+		<twitter>ezarateh</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>2</usuarioid>
+		<nombre>Uriel Hernández</nombre>
+		<twitter>urielhdz</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>3</usuarioid>
+		<nombre>Jonathan</nombre>
+		<twitter>zaratedev</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>4</usuarioid>
+		<nombre>Rodolfo Ferro</nombre>
+		<twitter>ferrodolfo</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>4</usuarioid>
+		<nombre>Angela</nombre>
+		<twitter>angy.py</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>5</usuarioid>
+		<nombre>Diana</nombre>
+		<twitter>diana</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>6</usuarioid>
+		<nombre>Pepito</nombre>
+		<twitter>pepito</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>7</usuarioid>
+		<nombre>Jose</nombre>
+		<twitter>josedlujan</twitter>
+	</usuario>
+</usuarios>
